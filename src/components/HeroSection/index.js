@@ -32,7 +32,7 @@ const HeroSection = () => {
       <HeroContent>
         <HeroH1>Next Generation Analytical Instruments</HeroH1>
         <HeroP>
-          Large Scale, Table-top & Handheld Instruments. FSI, Automatomation
+          Large Scale, Table-top & Handheld Instruments. Field Safety Instruments, Radiation Detection & Monitoring, Consumables, Chemicals & Reagents, Industrial Automation
           and much more.
         </HeroP>
         <HeroBtnWrapper>

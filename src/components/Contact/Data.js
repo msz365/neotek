@@ -5,7 +5,7 @@ export const homeObjThree = {
     lightTextDesc: false,
     topLine: 'Get In Tocuh',
     headline: 'Our team is always ready to assist',
-    description: 'Suite 2-6, Cloud Emporium, Gulberg Greens Islamabad – PAKISTAN',
+    description: 'Suite 2-6, Cloud Emporium, Gulberg Greens Islamabad',
     email: 'info@neotek.pk',
     phone: '0304 1111 485',
     buttonLabel: 'Contact Us',

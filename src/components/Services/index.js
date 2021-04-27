@@ -23,7 +23,7 @@ const Services = () => {
                 <ServicesCard>
                     <ServicesIcon src={Icon3} />
                     <ServicesH2>Method Development</ServicesH2>
-                    <ServicesP>We can help you indevelopment of methods per interationally accepted practices</ServicesP>
+                    <ServicesP>We can help you in development of methods per internationally accepted practices</ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>

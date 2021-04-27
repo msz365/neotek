@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'About Us',
     headline: 'Over a decade of International Excellence',
-    description: 'We Offer Some of the most Cutting Edge Analytical Instruments, Lab Automation through LIMS, The Largest Consumables, Chemicals & Reagents Portfolio, FSI for Gas Detection & Narcotics Control, Industrial Automation and Much More',
+    description: 'WIth our regional office in UAE and projects spanning the length of the GCC, we bring our excperinece and relationships to Pakistan. To serve numerous verticals, we have a diverse range of offerings that can ensure new heights of success for our clients',
     buttonLabel: 'Explore',
     imgStart: false,
     img: "/static/media/svg-1.aa373bca.svg",

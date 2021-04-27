@@ -27,7 +27,7 @@ const Products = () => {
                 <ProductCardLink href='//www.perkinelmer.com/product/lactoscope-ft-a-liquid-dairy-products-analyzer-lafta' target="_blank" aria-label="Perkin Elmer Dairy and Atomic Absorption">
                     <ProductsIcon src={Icon2} />
                     <ProductsH2>Atomic Absorption & Dairy Analysis</ProductsH2>
-                    <ProductsP>State of the Art Dairy Analysis & Atomic Absortion Systems</ProductsP>
+                    <ProductsP>State of the Art Dairy Analysis & Atomic Absorption Systems</ProductsP>
                 </ProductCardLink>
                 </ProductsCard>
                 <ProductsCard>
