@@ -40,14 +40,14 @@ const Products = () => {
                 <ProductsCard>
                 <ProductCardLink href="//www.onqsoft.com.au/best-lims-qlims/" target="_blank" aria-label="LIMS">
                     <ProductsIcon src={Icon4} />
-                    <ProductsH2>QLIMS</ProductsH2>
+                    <ProductsH2>Laboratory Information Management System</ProductsH2>
                     <ProductsP>The best LIMS on the market. Through QLIMS, Organsiations can Automate & meet Global Regulatory Compliance</ProductsP>
                     </ProductCardLink>
                 </ProductsCard>
                 <ProductsCard>
                 <ProductCardLink href="//us.vwr.com/store/" target="_blank" aria-label="VWR Consumables Reagents and Chemicals">
                     <ProductsIcon src={Icon5} />
-                    <ProductsH2>A Complete Array</ProductsH2>
+                    <ProductsH2>A Complete Spectrum</ProductsH2>
                     <ProductsP>Your One-Stop for General Lab Equipment, Consumables & Reagents. The best soruce for High Quality & Traceability</ProductsP>
                     </ProductCardLink>
                 </ProductsCard>
