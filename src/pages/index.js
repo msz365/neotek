@@ -28,10 +28,10 @@ const Home = () => {
         <Services />
         <Contact {...homeObjThree} />
         <Footer />
-        <MessengerCustomerChat
+        {/* <MessengerCustomerChat
     pageId="110387191195732"
     appId="52209998919991"
-  />
+  /> */}
         
             
         </>
