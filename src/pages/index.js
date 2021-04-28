@@ -8,7 +8,8 @@ import { homeObjThree } from '../components/Contact/Data';
 import Navbar from '../components/Navbar'
 import Products from '../components/Products';
 import Services from '../components/Services';
-import Sidebar from '../components/Sidebar'
+import Sidebar from '../components/Sidebar';
+import MessengerCustomerChat from 'react-messenger-customer-chat';
 
 const Home = () => {
 
@@ -27,7 +28,10 @@ const Home = () => {
         <Services />
         <Contact {...homeObjThree} />
         <Footer />
-        
+        <MessengerCustomerChat
+    pageId="110387191195732"
+    appId="52209998919991"
+  />
         
             
         </>
