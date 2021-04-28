@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'About Us',
     headline: 'Over a decade of International Excellence',
-    description: 'WIth our regional office in UAE and projects spanning the length of the GCC, we bring our excperinece and relationships to Pakistan. To serve numerous verticals, we have a diverse range of offerings that can ensure new heights of success for our clients',
+    description: 'With our regional office in UAE and projects spanning the length of the GCC, we bring our experience and relationships to Pakistan. To serve numerous verticals, we have a diverse range of offerings that can ensure new heights of success for our clients',
     buttonLabel: 'Explore',
     imgStart: false,
     img: "/static/media/svg-1.aa373bca.svg",
