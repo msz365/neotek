@@ -6,7 +6,7 @@ export const FooterContainer = styled.footer`
 
 `
 export const FooterWrap = styled.div`
-    padding: 48px 24px;
+    padding: 10px 24px;
     display:flex;
     flex-direction: column;
     justify-content:center;
@@ -87,7 +87,7 @@ export const SocialMediaWrap = styled.div`
     justify-content: space-between;
     align-items:center;
     max-width:1100px;
-    margin: 40px auto 0 auto;
+    margin: 20px auto 0 auto;
     
     
 
@@ -116,7 +116,7 @@ export const Img = styled.img`
     font-size:1.5rem;
     display:flex;
     align-items:center;
-    margin-bottom: 16px;
+    
     font-weight:bold;
     height:35px;
 `
@@ -131,10 +131,17 @@ export const SocialIcons = styled.div`
     justify-content: space-between;
     align-items: center;
     width: 240px;
+    margin-bottom: 16px;
 `
 
 export const SocialIconLink = styled.a`
     color: #fff;
-    font-size:30px;
+    font-size:25px;
+
+
+    &:hover{
+        color:#560004;
+        transition: 0.3s ease-out;
+    }
 `
 

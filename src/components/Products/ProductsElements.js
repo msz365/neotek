@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const ProductsContainer = styled.div`
-    height: 1400px;
+    height: 1600px;
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -9,10 +9,16 @@ export const ProductsContainer = styled.div`
     background: #560004;
 
 
-    @media screen and (max-width:768px){
-        height:3000px;
+    @media screen and (max-width:1000px){
+        height:1800px;
 
     }
+
+    @media screen and (max-width:768px){
+        height:2800px;
+
+    }
+
 
     @media screen and (max-width:480px){
         height:3000px;
