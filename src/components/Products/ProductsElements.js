@@ -10,18 +10,18 @@ export const ProductsContainer = styled.div`
 
 
     @media screen and (max-width:1000px){
-        height:2000px;
+        height:2300px;
 
     }
 
     @media screen and (max-width:768px){
-        height:3000px;
+        height:3700px;
 
     }
 
 
     @media screen and (max-width:480px){
-        height:3200px;
+        height:4200px;
 
     }
 `
