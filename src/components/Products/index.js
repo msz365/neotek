@@ -7,6 +7,9 @@ import Icon5 from '../../images/vwr-logo.png'
 import Icon6 from '../../images/spectrum-logo.png'
 import Icon7 from '../../images/honeywell-logo.png'
 import Icon8 from '../../images/myscada-logo.png'
+import Icon9 from '../../images/is-logo.png'
+import Icon10 from '../../images/gester-logo.png'
+import Icon11 from '../../images/galvano-logo.png'
 import { ProductCardLink, ProductsCard, ProductsContainer, ProductsH1, ProductsH2, ProductsIcon, ProductsP, ProductsWrapper } from './ProductsElements'
 
 
@@ -70,6 +73,27 @@ const Products = () => {
                     <ProductsIcon src={Icon8} />
                     <ProductsH2>Industrial Automation</ProductsH2>
                     <ProductsP>Automate Your Manufacturing Process & Leverage the Insights to Improve Efficiencies Across Your Organisation</ProductsP>
+                    </ProductCardLink>
+                </ProductsCard>
+                <ProductsCard>
+                <ProductCardLink href="//www.isystems-group.com/solutions/pharmaceutical-life-sciences/" target="_blank" aria-label="Micorosoft ERP">
+                    <ProductsIcon src={Icon9} />
+                    <ProductsH2>Enterprise Resource Planning</ProductsH2>
+                    <ProductsP>Dynamics 365 for Industries is an integrated solution based on Microsoft Dynamics 365 ERP</ProductsP>
+                    </ProductCardLink>
+                </ProductsCard>
+                <ProductsCard>
+                <ProductCardLink href="//www.gester-instruments.com/" target="_blank" aria-label="GESTER Testing">
+                    <ProductsIcon src={Icon10} />
+                    <ProductsH2>Testing Equipment for Various Industries</ProductsH2>
+                    <ProductsP>Testing Solutions for Masks, Footwear, Textile and Furniture</ProductsP>
+                    </ProductCardLink>
+                </ProductsCard>
+                <ProductsCard>
+                <ProductCardLink href="//galvanoscientific.com/products/" target="_blank" aria-label="Galvano">
+                    <ProductsIcon src={Icon11} />
+                    <ProductsH2>Quality Control for Pharma</ProductsH2>
+                    <ProductsP>A variety of affordable QC equipment for Pharma, manufactured in Pakistan</ProductsP>
                     </ProductCardLink>
                 </ProductsCard>
             </ProductsWrapper>

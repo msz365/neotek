@@ -56,7 +56,7 @@ const Footer = () => {
                         <SocialLogo to='/' onClick={toggleHome}>
                         <Img src={logo}/>
                         </SocialLogo>
-                        <WebsiteRights>Neotek © {new Date().getFullYear()} All Rights Reserved.</WebsiteRights>
+                        <WebsiteRights>© {new Date().getFullYear()} All Rights Reserved.</WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href='//www.facebook.com/Neotek-110387191195732' target="_blank" aria-label="Facebook"><FaFacebook /></SocialIconLink>
                         
