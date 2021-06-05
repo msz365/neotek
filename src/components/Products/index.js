@@ -58,7 +58,7 @@ const Products = () => {
                 <ProductCardLink href="//www.spectrum-cn.cn/Products?_l=en" target="_blank" aria-label="Spectrum Atomic Absorption and UV-Vis">
                     <ProductsIcon src={Icon6} />
                     <ProductsH2>Spectrophotometery on a Budget</ProductsH2>
-                    <ProductsP>Superior Quality at a Great Price. Atomic Absorption & UV-Vis provide a Budget Firendly Alternate</ProductsP>
+                    <ProductsP>Superior Quality at a Great Price. Atomic Absorption & UV-Vis provide a Budget Friendly Alternate</ProductsP>
                     </ProductCardLink>
                 </ProductsCard>
                 <ProductsCard>
