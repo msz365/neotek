@@ -16,7 +16,7 @@ const Sidebar = ({isOpen, toggle}) => {
                     {/* <SidebarLink to='signup' onClick={toggle}>Sign Up</SidebarLink> */}
                 </SidebarMenu>
                 <SideBtnWrap>
-                    <SidebarRoute href="//erp.neotek.com.pk">
+                    <SidebarRoute href="http://erp.neotek.com.pk">
                         Sign In
                     </SidebarRoute> 
                 </SideBtnWrap>
