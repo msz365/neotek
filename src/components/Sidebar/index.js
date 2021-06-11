@@ -15,11 +15,11 @@ const Sidebar = ({isOpen, toggle}) => {
                     <SidebarLink to='contact' onClick={toggle}>Contact</SidebarLink>
                     {/* <SidebarLink to='signup' onClick={toggle}>Sign Up</SidebarLink> */}
                 </SidebarMenu>
-                {/* <SideBtnWrap>
-                    <SidebarRoute to="/signin">
+                <SideBtnWrap>
+                    <SidebarRoute href="//erp.neotek.com.pk">
                         Sign In
                     </SidebarRoute> 
-                </SideBtnWrap> */}
+                </SideBtnWrap>
             </SidebarWrapper>
         </SidebarContainer>
     )
