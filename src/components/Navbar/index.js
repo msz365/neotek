@@ -78,7 +78,7 @@ const Navbar = ({toggle}) => {
                         </NavItem> */}
                     </NavMenu>
                 <NavBtn>
-                        <NavBtnLink href="//http://erp.neotek.com.pk">Sign In</NavBtnLink>
+                        <NavBtnLink href="http://erp.neotek.com.pk">Sign In</NavBtnLink>
                     </NavBtn>
                 </NavbarContainer>
             </Nav>
