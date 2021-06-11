@@ -77,9 +77,9 @@ const Navbar = ({toggle}) => {
                             <NavLinks to='signup'>Sign Up</NavLinks>
                         </NavItem> */}
                     </NavMenu>
-                    {/* <NavBtn>
-                        <NavBtnLink to="/signin">Sign In</NavBtnLink>
-                    </NavBtn> */}
+                <NavBtn>
+                        <NavBtnLink href="//erp.neotek.com.pk">Sign In</NavBtnLink>
+                    </NavBtn>
                 </NavbarContainer>
             </Nav>
             </IconContext.Provider>
